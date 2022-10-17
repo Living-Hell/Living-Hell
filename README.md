@@ -18,7 +18,7 @@
 
 <img align='right' src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" height="" width="400" alt="coding cat">
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React** and **Data Structures & Algorithms**
 
 - 👨‍💻 All of my projects are available on my [Github](https://github.com/Living-Hell)
 
@@ -60,12 +60,24 @@
 ## Software:
 <code><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/></code>
 
-<br>
+### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=living-hell&show_icons=true&locale=en&layout=compact" alt="living-hell" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=living-hell&show_icons=true&locale=en&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" alt="living-hell" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=living-hell&show_icons=true&locale=en&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues" alt="living-hell" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=living-hell&theme=dark" alt="living-hell" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=living-hell&show_icons=true&locale=en" alt="living-hell" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=living-hell&" alt="living-hell" /></p>
+### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
+<a href="https://github.com/marketplace/actions/quote-readme">
+
+<!--STARTS_HERE_QUOTE_README-->
+• <i>“Don’t worry if it doesn’t work right. If everything did, you’d be out of a job.”— Someone from Somewhere  </i>
+<!--ENDS_HERE_QUOTE_README-->
+</a>
+
+---
+
+### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Here's some humor for you:
+<img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
 
 
