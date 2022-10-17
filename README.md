@@ -1,20 +1,22 @@
-<h1 align="center">Hi 👋, I'm Shushant Kumar</h1>
+<h1 style="font-size: 2.5rem; font-weight: bold; text-align: center;" align='center'> 
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="40px"> Hello World! 
+<img src="https://media.giphy.com/media/fFEFxS3DE5VIY/giphy.gif" width="35px" />
+<br>
+I'm Shushant Kumar
+</h1> 
 <h3 align="center">A passionate Web Developer from India</h3>
 
 ![](https://img.shields.io/github/followers/living-hell?label=follow&logo=github&style=flat-square)
 ![GitHub User's stars](https://img.shields.io/github/stars/living-hell?label=%E2%AD%90GitHub%20stars&style=flat-square)
 ![](https://komarev.com/ghpvc/?username=living-hell&style=flat-square&color=ff69b4)
-<!-- <a href="https://discord.gg/87722te4">![Discord](https://img.shields.io/discord/686069011481362462?logo=discord&style=flat-square&label=web%20dev%20community)</a>
-<a href="https://youtube.com/avideait">![Youtube](https://img.shields.io/badge/-Avideait-333333?style=flat&logo=youtube)</a>
-<h1 style="font-size: 2.5rem; font-weight: bold; text-align: center;" align='center'> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="40px"> Hello World! <img src="https://media.giphy.com/media/fFEFxS3DE5VIY/giphy.gif" width="35px" /></h1>    -->
+
 
 ![mi perfil](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
 
 
-<h2 style="display: flex; align-items: center; margin-bottom: 1rem;"><img style="width: 40px; margin: 0;" src="./assets/Octocat/Octocat.png" alt="🌟" width='40' /> About Me</h2>
+<h2 style="display: flex; align-items: center; margin-bottom: 1rem;"><img style="width: 40px; margin: 0;" src="./assets/Octocat/Octocat.png" alt="🌟" width='40' />
+About Me</h2>
 
-<!-- 
-<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />  -->
 
 <img align='right' src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" height="" width="400" alt="coding cat">
 
@@ -70,9 +72,7 @@
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 
-<!--STARTS_HERE_QUOTE_README-->
-• <i>“Don’t worry if it doesn’t work right. If everything did, you’d be out of a job.”— Someone from Somewhere  </i>
-<!--ENDS_HERE_QUOTE_README-->
+<i>“Don’t worry if it doesn’t work right. If everything did, you’d be out of a job.”— Someone from Somewhere  </i>
 </a>
 
 ---
