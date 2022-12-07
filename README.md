@@ -20,15 +20,13 @@ About Me</h2>
 
 <img align='right' src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" height="" width="400" alt="coding cat">
 
-- 🌱 I’m currently learning **React** and **Data Structures & Algorithms**
+- 🌱 I’m currently learning **React** and enhancing my knowledge of **DSA**
 
-- 👨‍💻 All of my projects are available on my [Github](https://github.com/Living-Hell)
+- 👨‍💻 All of my projects are available on my [Github](https://github.com/Living-Hell).
 
-- 📫 How to reach me...[Mail me maybe?](**sk85@iitbbs.ac.in**)
+- 📫 How to reach me...[Mail me maybe?](**sk85@iitbbs.ac.in**) or do you prefer [Linkedin?](https://www.linkedin.com/in/shushantk/)
 
 - 📄 Know about my experiences [here.](https://drive.google.com/file/d/1fyGOb_tjTh4MImkdiSeOgLoc0Gc7F9eH/view?usp=sharing)
-
-- ⚡ Fun fact **There’s a bar in the sky. Wanna hangout?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
