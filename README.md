@@ -20,7 +20,7 @@ About Me</h2>
 
 <img align='right' src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" height="" width="400" alt="coding cat">
 
-- 🌱 I’m currently learning **React** and enhancing my knowledge of **DSA**
+- 🌱 I’m currently learning working on my **Development Skills** and enhancing my knowledge of **DSA**
 
 - 👨‍💻 All of my projects are available on my [Github](https://github.com/Living-Hell).
 
