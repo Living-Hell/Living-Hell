@@ -61,10 +61,10 @@ About Me</h2>
 <code><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/></code>
 
 ## Pinned repositories:
-<a href="https://github.com/Living-Hell/medi-chat"><img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=living-hell&repo=medi-chat&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151516" href="https://github.com/Living-Hell/medi-chat" /></a>
+<a href="https://github.com/Living-Hell/PathfindingVisualizer"><img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=living-hell&repo=PathfindingVisualizer&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151516" /></a>
 <a href="https://github.com/Living-Hell/quizza"><img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=living-hell&repo=quizza&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151516" /></a>
+<a href="https://github.com/Living-Hell/medi-chat"><img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=living-hell&repo=medi-chat&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151516" href="https://github.com/Living-Hell/medi-chat" /></a>
 <a href="https://github.com/Living-Hell/The-Blessed-Bean"><img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=living-hell&repo=The-Blessed-Bean&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151516" /></a>
-<a href="https://github.com/Living-Hell/crypto-tracker"><img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=living-hell&repo=crypto-tracker&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151516" /></a>
 
 
 ## <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
