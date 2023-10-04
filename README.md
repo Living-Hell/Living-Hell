@@ -32,9 +32,11 @@ About Me</h2>
 <p align="left">
 <a href="https://linkedin.com/in/shushantk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shushantk" height="30" width="40" /></a>
 <a href="https://instagram.com/shushant_2.2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shushant_2.2" height="30" width="40" /></a>
+ <a href="https://codeforces.com/profile/LivingHell" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codeforces.svg" alt="shushant_2.2" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/living_hell" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="living_hell" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/livinghell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="livinghell" height="30" width="40" /></a>
 </p>
+
 
 ## Programming Languages:
 <code><img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" alt="C"/></code>
