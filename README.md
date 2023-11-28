@@ -4,7 +4,7 @@
 <br>
 I'm Shushant Kumar
 </h1> 
-<h3 align="center">A passionate Web Developer from India</h3>
+<h3 align="center">A passionate Developer from India</h3>
 
 ![](https://img.shields.io/github/followers/living-hell?label=follow&logo=github&style=flat-square)
 ![GitHub User's stars](https://img.shields.io/github/stars/living-hell?label=%E2%AD%90GitHub%20stars&style=flat-square)
