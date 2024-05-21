@@ -4,7 +4,7 @@
 <br>
 I'm Shushant Kumar
 </h1> 
-<h3 align="center">A passionate Developer from India</h3>
+<h3 align="center">A Full-Stack Developer from India</h3>
 
 ![](https://img.shields.io/github/followers/living-hell?label=follow&logo=github&style=flat-square)
 ![GitHub User's stars](https://img.shields.io/github/stars/living-hell?label=%E2%AD%90GitHub%20stars&style=flat-square)
@@ -20,7 +20,7 @@ About Me</h2>
 
 <img align='right' src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" height="" width="400" alt="coding cat">
 
-- 🌱 I’m currently learning working on my **Development Skills** and enhancing my knowledge of **DSA**
+- 🌱 I’m currently working as a Full-Stack Developer at Datoms.
 
 - 👨‍💻 All of my projects are available on my [Github](https://github.com/Living-Hell).
 
