@@ -26,7 +26,9 @@ About Me</h2>
 
 - 📫 How to reach me...[Mail me maybe?](**sk85@iitbbs.ac.in**) or do you prefer [Linkedin?](https://www.linkedin.com/in/shushantk/)
 
-- 📄 Wanna know about me [more?](https://shushant-kumar.netlify.app/)
+- 📄 Wanna know about me more? Checkout my [Portfolio.](https://shushant-kumar.netlify.app/)
+
+- 📄 You can also refer to my [resume.](https://shushant-kumar.netlify.app/](https://drive.google.com/file/d/1FjN6SooQExUtwHmU4sbvqOEcP8bv-U9D/view?usp=sharing)) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
