@@ -28,7 +28,7 @@ About Me</h2>
 
 - 📄 Wanna know about me more? Checkout my [Portfolio.](https://shushant-kumar.netlify.app/)
 
-- 📄 You can also refer to my [resume.](https://shushant-kumar.netlify.app/](https://drive.google.com/file/d/1FjN6SooQExUtwHmU4sbvqOEcP8bv-U9D/view?usp=sharing)) 
+- 📄 You can also refer to my [resume.](https://drive.google.com/file/d/1M5gWpjheQwPCMSUrmG6PmWRgubWVXTxB/view?usp=sharing) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
