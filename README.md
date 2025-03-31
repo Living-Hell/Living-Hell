@@ -20,7 +20,7 @@ About Me</h2>
 
 <img align='right' src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" height="" width="400" alt="coding cat">
 
-- 🌱 I’m currently working as a Full-Stack Developer at Datoms.
+- 🌱 I’m currently working as a Software Engineer (Backend) at Myntra.
 
 - 👨‍💻 All of my projects are available on my [Github](https://github.com/Living-Hell).
 
